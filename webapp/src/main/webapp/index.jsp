@@ -3,3 +3,5 @@
 <h2> Good Luck and we are almost done with the course.Thankyou</h2>
 <h3>This is my Git demo testing </h3>
 <h3>This is my Git demo testing222 </h3>
+<h3>This is my Git demo test </h3>
+<h3>Commit from VS code Aug 3 </h3>
